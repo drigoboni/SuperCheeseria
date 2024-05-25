@@ -67,6 +67,14 @@ The solution follows a modular and component-based design pattern, leveraging th
 - React.js
 - .NET Core SDK
 
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/drigoboni/SuperCheeseria.git
+    cd super-cheeseria
+    ```
+
+2. **Run the application using your favourite IDE, such as VS Code or Visual Studio** 
+
 ## Small Print
 
 - **Author:** [Rodrigo Eduardo Boni](https://www.linkedin.com/in/rodrigoeduardoboni/)
